@@ -1,0 +1,20 @@
+{
+  "name": "calculadora-main",
+  "version": "1.0.0",
+  "description": "Calculadora Con JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "@Msaul03"
+  },
+  "keywords": [
+    "JS",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Saul Martinez",
+  "license": "MIT"
+}
